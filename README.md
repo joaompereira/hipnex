@@ -30,3 +30,7 @@ Although the repository is self-contained, we include software from other author
   We thank [Ruichen Jiang](https://github.com/Raymond30/) for providing the code after personal request, and allowing it to be shared in this repository. We modified the provided code slightly to integrate it into our experiments.
   - `lsqrSOL`: We used the Matlab implementation of LSQR available at [https://web.stanford.edu/group/SOL/software/lsqr/](https://web.stanford.edu/group/SOL/software/lsqr/), and modified it to include the stopping criteria in equation (26) of the HIPNEX paper.
   - `minres_sol`: We implement our version of the MINRES algorithm, using the Matlab implementation available in the [Wikipedia page](https://en.wikipedia.org/wiki/Minimal_residual_method), as reference.
+
+## Feedback
+
+Feel free to submit any feedback by submitting an issue in this repository, or alternatively by e-mailing to [jpereira@impa.br](mailto:jpereira@impa.br).
